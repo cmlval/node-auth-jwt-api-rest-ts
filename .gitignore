@@ -1,0 +1,5 @@
+.env
+comandos.txt
+node_modules
+postgres/
+dist/
